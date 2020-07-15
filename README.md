@@ -9,4 +9,4 @@ An example trained watch cascade.xml is also provided [link to cascade.xml](http
 
 **EXECUTABLE VERSION IS ALSO AVAILABLE :**  [LINK TO CASCADE_TRAINER](https://drive.google.com/file/d/1CwHZPJIXkxUksgRWQ_CYxLllLJW_NYiM/view?usp=sharing)
 
-![Image of trainer application](https://drive.google.com/file/d/1Fs_jCffFxXX1qXN03afLIgwOeTDi0W0t/view?usp=sharing)
+![Image of trainer application](https://raw.githubusercontent.com/dootamroy/haarcascade_trainer_gui_app/master/haarcascade%20trainer.JPG)
