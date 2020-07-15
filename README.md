@@ -4,3 +4,6 @@ haar cascade training application using Pyqt5
 the trained cascade xml fill will be generated in the image directly (image_directory/data)
 
 An example trained watch cascade.xml is also provided (watch_cascade)
+
+
+![Image of trainer application](https://drive.google.com/file/d/1Fs_jCffFxXX1qXN03afLIgwOeTDi0W0t/view?usp=sharing)
